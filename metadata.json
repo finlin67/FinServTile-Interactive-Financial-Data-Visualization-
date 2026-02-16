@@ -1,0 +1,5 @@
+{
+  "name": "FinServTile: Interactive Financial Dashboard",
+  "description": "A premium, high-fidelity financial dashboard component featuring glassmorphism, floating interactive cards, and live-simulated data visualizations built with React and Framer Motion.",
+  "requestFramePermissions": []
+}
